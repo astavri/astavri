@@ -1,14 +1,12 @@
 - 👋 Hi, I’m @astavri
 - 👀 I’m interested in SQL, Python, and Arduino IDE
 - 🌱 I’m currently learning python with intentions to implement it with SQL
--     I would like to learn more useful languages that could improve my chances of a career doing it fulltime. 
--     If you have any suggestions or project you want me to work on, please let me know. 
--     
+-I would like to learn more useful languages that could improve my chances of a career doing it fulltime.
 - 💞️ I’m looking to collaborate with those interested in webscraping and data analyis for the moment
 - 📫 How to reach me.. astavri@g 
 
 I know
-Somee Excel VBA
+Some Excel VBA
 Python
 Arduino IDE (C)
 
